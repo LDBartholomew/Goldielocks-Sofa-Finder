@@ -1,0 +1,11 @@
+.firmness {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.firmness {
+    flex-basis: 28%;
+    margin: 1em;
+    padding: 1em;
+    border: 1px solid goldenrod;
+}    
