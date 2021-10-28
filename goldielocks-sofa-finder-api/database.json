@@ -1,0 +1,132 @@
+{
+  "users": [
+    {
+      "email": "ld@ldcc.com",
+      "name": "LD",
+      "id": 1
+    }
+  ],
+  "firmnesses": [
+    {
+      "id": 1,
+      "name": "Firm"
+    },
+    {
+      "id": 2,
+      "name": "Medium"
+    },
+    {
+      "id": 3,
+      "name": "Soft"
+    }
+  ],
+  "colors": [
+    {
+      "id": 1,
+      "name": "Blue"
+    },
+    {
+      "id": 2,
+      "name": "Green"
+    },
+    {
+      "id": 3,
+      "name": "Black"
+    }
+  ],
+  "fabrics": [
+    {
+      "id": 1,
+      "name": "Cotton"
+    },
+    {
+      "id": 2,
+      "name": "Leather"
+    },
+    {
+      "id": 3,
+      "name": "Microfiber"
+    }
+  ],
+  "sofas": [
+    {
+      "id": 1,
+      "name": "Karen",
+      "firmnessId": 1,
+      "colorId": 1,
+      "fabricId": 1,
+      "image": "Karenpic"
+    },
+    {
+      "id": 2,
+      "name": "Sandy",
+      "firmnessId": 1,
+      "colorId": 2,
+      "fabricId": 2,
+      "image": "Sandypic"
+    },
+    {
+      "id": 3,
+      "name": "Erin",
+      "firmnessId": 1,
+      "colorId": 3,
+      "fabricId": 3,
+      "image": "Erinpic"
+    },
+    {
+      "id": 4,
+      "name": "Kara",
+      "firmnessId": 2,
+      "colorId": 1,
+      "fabricId": 1,
+      "image": "Karapic"
+    },
+    {
+      "id": 5,
+      "name": "Parker",
+      "firmnessId": 2,
+      "colorId": 2,
+      "fabricId": 2,
+      "image": "Parkerpic"
+    },
+    {
+      "id": 6,
+      "name": "Jillian",
+      "firmnessId": 2,
+      "colorId": 3,
+      "fabricId": 3,
+      "image": "Jillianpic"
+    },
+    {
+      "id": 7,
+      "name": "Allison",
+      "firmnessId": 3,
+      "colorId": 1,
+      "fabricId": 1,
+      "image": "Allisonpic"
+    },
+    {
+      "id": 8,
+      "name": "Corey",
+      "firmnessId": 3,
+      "colorId": 2,
+      "fabricId": 2,
+      "image": "Coreypic"
+    },
+    {
+      "id": 9,
+      "name": "Katy",
+      "firmnessId": 3,
+      "colorId": 3,
+      "fabricId": 3,
+      "image": "Katypic"
+    }
+  ],
+  "configurations": [
+    {
+      "id": 1,
+      "userId": 1,
+      "sofaId": 1
+    }
+  ]
+}
